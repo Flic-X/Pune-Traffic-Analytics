@@ -7,7 +7,7 @@
 
 > **Enterprise-grade traffic analytics platform providing real-time insights and AI-powered recommendations for smart mobility decisions in Pune, India.**
 
-![Dashboard Preview](assets/images/screenshots/dashboard-main.png)
+![Dashboard Preview](https://pune-traffic-analysis.netlify.app/)
 
 ## 🌟 Key Highlights
 
@@ -105,7 +105,7 @@ graph TB
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/pune-traffic-analytics.git
-cd pune-traffic-analytics
+cd Pune-Traffic-Analytics
 
 # Install dependencies
 npm install
@@ -163,6 +163,8 @@ GITHUB_TOKEN=your_github_token
 - **Responsive Grid**: Mobile-first breakpoint system
 
 ## 📱 Screenshots
+
+(About to Update in 2 Days)
 
 | Desktop View | Mobile View | Analytics Panel |
 |:---:|:---:|:---:|
