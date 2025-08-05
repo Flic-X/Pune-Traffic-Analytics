@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "Pune Traffic Analytics",
+    "version": "2.1.0",
+    "debug": false
+  },
+  "api": {
+    "baseUrl": "https://api.example.com",
+    "timeout": 10000,
+    "retries": 3
+  },
+  "features": {
+    "realTimeUpdates": true,
+    "exportFeatures": true,
+    "advancedFilters": true,
+    "darkMode": true
+  },
+  "performance": {
+    "lazyLoading": true,
+    "chartAnimation": true,
+    "transitionDuration": 300
+  }
+}
