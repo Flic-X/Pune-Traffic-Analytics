@@ -1,8 +1,8 @@
 # 🚦 Pune Traffic Analytics Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://yourusername.github.io/pune-traffic-analytics)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/pune-traffic-analytics)](https://github.com/yourusername/pune-traffic-analytics/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/pune-traffic-analytics)](https://github.com/yourusername/pune-traffic-analytics/network)
+[![Live Demo](https://pune-traffic-analysis.netlify.app/)]
+[![GitHub stars](https://img.shields.io/github/stars/Flic-X/Pune-Traffic-Analytics)](https://github.com/Flic-X/Pune-Traffic-Analytics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Flic-X/Pune-Traffic-Analytics)](https://github.com/Flic-X/Pune-Traffic-Analytics/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Enterprise-grade traffic analytics platform providing real-time insights and AI-powered recommendations for smart mobility decisions in Pune, India.**
