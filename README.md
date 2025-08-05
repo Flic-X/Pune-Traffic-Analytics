@@ -1,13 +1,14 @@
 # 🚦 Pune Traffic Analytics Dashboard
 
-[![Live Demo](https://pune-traffic-analysis.netlify.app/)]
+## https://pune-traffic-analysis.netlify.app/
+
+[![Live Demo](https://pune-traffic-analysis.netlify.app/)](https://Flic-X.github.io/Pune-Traffic-Analytics)
 [![GitHub stars](https://img.shields.io/github/stars/Flic-X/Pune-Traffic-Analytics)](https://github.com/Flic-X/Pune-Traffic-Analytics/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Flic-X/Pune-Traffic-Analytics)](https://github.com/Flic-X/Pune-Traffic-Analytics/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Enterprise-grade traffic analytics platform providing real-time insights and AI-powered recommendations for smart mobility decisions in Pune, India.**
 
-![Dashboard Preview](https://pune-traffic-analysis.netlify.app/)
 
 ## 🌟 Key Highlights
 
@@ -265,16 +266,12 @@ const blob = await csvData.blob();
 
 ## 📞 Contact & Support
 
-- **Email**: your.email@domain.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: shrirangvaidya88.80@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrirangvaidya/))
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Portfolio**: [yourportfolio.com]([https://yourportfolio.com](https://shrirang-vaidya-portfolio0.netlify.app/))
 
-## 🏆 Recognition
 
-- **TechCrunch Disrupt 2024**: Finalist in Smart Cities category
-- **Google Developer Challenge**: Top 10 submission
-- **IEEE Smart Cities Conference**: Presentation accepted
 
 ## 📝 License
 
