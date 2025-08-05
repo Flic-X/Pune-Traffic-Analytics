@@ -267,9 +267,8 @@ const blob = await csvData.blob();
 ## 📞 Contact & Support
 
 - **Email**: shrirangvaidya88.80@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrirangvaidya/))
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Portfolio**: [yourportfolio.com]([https://yourportfolio.com](https://shrirang-vaidya-portfolio0.netlify.app/))
+- **LinkedIn**:[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrirangvaidya/)
+- **Portfolio**:[https://yourportfolio.com](https://shrirang-vaidya-portfolio0.netlify.app/)
 
 
 
